@@ -1,6 +1,4 @@
 
-# Schultz
-
 # BLUE
 ![Blue Version][blue]
 # RED
